@@ -94,7 +94,7 @@ phpunit
 _modules/*
 
 # phpenv local config
-.php-version
+
 
 # Jetbrains editors (PHPStorm, etc)
 .idea/
