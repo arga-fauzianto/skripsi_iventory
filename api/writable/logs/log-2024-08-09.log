@@ -1,0 +1,932 @@
+CRITICAL - 2024-08-09 02:30:39 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 02:31:15 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 02:31:57 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 02:46:16 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 02:50:29 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang/create]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 02:50:38 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 02:52:23 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 02:56:19 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 02:57:14 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:05:12 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:05:13 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:05:14 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:05:15 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:05:55 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:06:01 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:06:13 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:06:24 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:06:32 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:06:57 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:07:08 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:11:45 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:12:02 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:12:42 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:13:11 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:15:51 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang/create]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:16:06 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:22:16 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang/create]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:22:31 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:23:58 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:24:02 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:24:02 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:25:21 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:33:54 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:57:55 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:58:26 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang/create]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:59:01 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: POST, Route: api/barang]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 03:59:27 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 04:09:30 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:04:47 --> Error: Call to a member function insertData() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:05:51 --> Error: Call to a member function insertData() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:15:51 --> Error: Class "App\Models\BarangModel" not found
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Barang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:20:17 --> Error: Class "App\Models\BarangModel" not found
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Barang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:22:40 --> Error: Call to a member function insertData() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:31:28 --> Error: Call to a member function select() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 60.
+ 1 APPPATH\Controllers\Barang.php(44): App\Controllers\Barang->generateKodeBarang()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:31:58 --> Error: Call to a member function select() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 60.
+ 1 APPPATH\Controllers\Barang.php(44): App\Controllers\Barang->generateKodeBarang()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:36:58 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:38:14 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:38:16 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:38:49 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:43:43 --> Error: Cannot call constructor
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Barang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:51:49 --> Error: Cannot call constructor
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Barang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:52:46 --> Error: Cannot call constructor
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Barang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:52:47 --> Error: Cannot call constructor
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Barang->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:53:25 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:55:13 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:56:37 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:56:41 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 07:56:42 --> Error: Call to a member function generateKodeBarang() on null
+[Method: POST, Route: barang]
+in APPPATH\Controllers\Barang.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Barang->create()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:25:03 --> ErrorException: include(C:\xampp\htdocs\api\vendor\composer/../../app/Controllers/Barang.php): Failed to open stream: No such file or directory
+[Method: POST, Route: barang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\api\\vendor\\composer/../../app/Controllers/Barang.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\api\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\api\\vendor\\composer/../../app/Controllers/Barang.php')
+ 4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers\\Barang')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Barang', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:26:36 --> ErrorException: include(C:\xampp\htdocs\api\vendor\composer/../../app/Controllers/Barang.php): Failed to open stream: No such file or directory
+[Method: POST, Route: barang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\api\\vendor\\composer/../../app/Controllers/Barang.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\api\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\api\\vendor\\composer/../../app/Controllers/Barang.php')
+ 4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers\\Barang')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Barang', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:28:06 --> ErrorException: include(C:\xampp\htdocs\api\vendor\composer/../../app/Controllers/Barang.php): Failed to open stream: No such file or directory
+[Method: POST, Route: barang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\api\\vendor\\composer/../../app/Controllers/Barang.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\api\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\api\\vendor\\composer/../../app/Controllers/Barang.php')
+ 4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers\\Barang')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Barang', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:29:02 --> ErrorException: include(C:\xampp\htdocs\api\vendor\composer/../../app/Controllers/Barang.php): Failed to open stream: No such file or directory
+[Method: POST, Route: barang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\api\\vendor\\composer/../../app/Controllers/Barang.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\api\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\api\\vendor\\composer/../../app/Controllers/Barang.php')
+ 4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers\\Barang')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Barang', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+ERROR - 2024-08-09 08:31:59 --> mysqli_sql_exception: Table 'iventory.masterbarangs' doesn't exist in C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ma...', 0)
+#1 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ma...')
+#2 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ma...')
+#3 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ma...', Array, false)
+#4 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\api\app\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+#10 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+#11 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\api\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-08-09 08:31:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'iventory.masterbarangs' doesn't exist
+[Method: POST, Route: masterbarang]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `masterbarangs` (`jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:31:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'iventory.masterbarangs' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `masterbarangs` (`jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'100\', \'100\', \'2024-08-09 08:31:59\', \'2024-08-09 08:31:59\', \'BRG-455F36\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `masterbarangs` (`jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'100\', \'100\', \'2024-08-09 08:31:59\', \'2024-08-09 08:31:59\', \'BRG-455F36\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `masterbarangs` (`jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:31:59 --> [Caused by] mysqli_sql_exception: Table 'iventory.masterbarangs' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `masterbarangs` (`jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'100\', \'100\', \'2024-08-09 08:31:59\', \'2024-08-09 08:31:59\', \'BRG-455F36\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `masterbarangs` (`jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'100\', \'100\', \'2024-08-09 08:31:59\', \'2024-08-09 08:31:59\', \'BRG-455F36\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `masterbarangs` (`jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'100\', \'100\', \'2024-08-09 08:31:59\', \'2024-08-09 08:31:59\', \'BRG-455F36\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `masterbarangs` (`jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+ERROR - 2024-08-09 08:34:50 --> mysqli_sql_exception: Unknown column 'nama_barang' in 'field list' in C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ba...', 0)
+#1 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ba...')
+#2 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ba...')
+#3 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ba...', Array, false)
+#4 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\api\app\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+#10 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+#11 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\api\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-08-09 08:34:50 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_barang' in 'field list'
+[Method: POST, Route: masterbarang]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:34:50 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_barang' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:34:50\', \'2024-08-09 08:34:50\', \'BRG-C0CAB4\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:34:50\', \'2024-08-09 08:34:50\', \'BRG-C0CAB4\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:34:50 --> [Caused by] mysqli_sql_exception: Unknown column 'nama_barang' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:34:50\', \'2024-08-09 08:34:50\', \'BRG-C0CAB4\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:34:50\', \'2024-08-09 08:34:50\', \'BRG-C0CAB4\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:34:50\', \'2024-08-09 08:34:50\', \'BRG-C0CAB4\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:38:03 --> CodeIgniter\Validation\Exceptions\ValidationException: "varchar" is not a valid rule.
+[Method: POST, Route: masterbarang]
+in SYSTEMPATH\Validation\Validation.php on line 345.
+ 1 SYSTEMPATH\Validation\Validation.php(345): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('varchar')
+ 2 SYSTEMPATH\Validation\Validation.php(201): CodeIgniter\Validation\Validation->processRules('nama_barang', 'nama_barang', 'tissue', [...], [...], 'nama_barang')
+ 3 SYSTEMPATH\Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\MasterBarang.php(65): CodeIgniter\Controller->validate([...], [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+ERROR - 2024-08-09 08:39:35 --> mysqli_sql_exception: Unknown column 'nama_barang' in 'field list' in C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ba...', 0)
+#1 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ba...')
+#2 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ba...')
+#3 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ba...', Array, false)
+#4 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\api\app\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+#10 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+#11 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\api\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-08-09 08:39:35 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_barang' in 'field list'
+[Method: POST, Route: masterbarang]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:39:35 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_barang' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:39:35\', \'2024-08-09 08:39:35\', \'BRG-506275\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:39:35\', \'2024-08-09 08:39:35\', \'BRG-506275\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:39:35 --> [Caused by] mysqli_sql_exception: Unknown column 'nama_barang' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:39:35\', \'2024-08-09 08:39:35\', \'BRG-506275\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:39:35\', \'2024-08-09 08:39:35\', \'BRG-506275\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:39:35\', \'2024-08-09 08:39:35\', \'BRG-506275\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+ERROR - 2024-08-09 08:40:54 --> mysqli_sql_exception: Unknown column 'nama_barang' in 'field list' in C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ba...', 0)
+#1 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ba...')
+#2 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ba...')
+#3 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ba...', Array, false)
+#4 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\api\app\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+#10 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+#11 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\api\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\api\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-08-09 08:40:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_barang' in 'field list'
+[Method: POST, Route: masterbarang]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:40:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_barang' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:40:54\', \'2024-08-09 08:40:54\', \'BRG-39806E\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:40:54\', \'2024-08-09 08:40:54\', \'BRG-39806E\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')
+CRITICAL - 2024-08-09 08:40:54 --> [Caused by] mysqli_sql_exception: Unknown column 'nama_barang' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:40:54\', \'2024-08-09 08:40:54\', \'BRG-39806E\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:40:54\', \'2024-08-09 08:40:54\', \'BRG-39806E\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (\'tissue\', \'100\', \'100\', \'2024-08-09 08:40:54\', \'2024-08-09 08:40:54\', \'BRG-39806E\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `barang` (`nama_barang`, `jumlah`, `qty`, `created_at`, `updated_at`, `kode_barang`) VALUES (:nama_barang:, :jumlah:, :qty:, :created_at:, :updated_at:, :kode_barang:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\MasterBarang.php(70): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MasterBarang->create()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MasterBarang))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\api\\public\\index.php')

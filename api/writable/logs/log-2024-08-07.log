@@ -1,0 +1,200 @@
+CRITICAL - 2024-08-07 03:31:28 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 03:31:51 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 03:32:37 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: api]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 03:33:20 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 03:53:39 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:02:51 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:08:24 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:09:12 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:10:41 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:12:24 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:20:24 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:20:27 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: api]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:21:04 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: api]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:22:09 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: api]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:22:12 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:28:24 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:28:26 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: api]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:29:16 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: api]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:29:18 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
+CRITICAL - 2024-08-07 04:44:44 --> CodeIgniter\Exceptions\FrameworkException: Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+[Method: GET, Route: /]
+in APPPATH\Config\Events.php on line 29.
+ 1 APPPATH\Config\Events.php(29): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+ 2 SYSTEMPATH\Events\Events.php(155): CodeIgniter\Events\Events::Config\{closure}()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\Events\Events::trigger('pre_system')
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('Z:\\api\\public\\index.php')
