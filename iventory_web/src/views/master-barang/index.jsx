@@ -1,26 +1,28 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import PerfectScrollbar from 'react-perfect-scrollbar';
-import { Row, Col, Card, Table, Button, ProgressBar } from 'react-bootstrap';
+import { Row, Col, Card, Table, Button, Spinner } from 'react-bootstrap';
 import { API_URL } from 'config';
 
 const MasterBarang = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [progress, setProgress] = useState(0);
 
   useEffect(() => {
     // Simulate progress bar update
     const interval = setInterval(() => {
-      setProgress(prev => (prev < 100 ? prev + 10 : 100));
     }, 100);
 
     // Fetch data from API
-    axios.get(`${API_URL.url_development}/barang`)
+    axios.get(`${API_URL.url_development}/masterbarang`, {
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })
       .then(response => {
         setData(response.data);
         setLoading(false);
-        console.log('get berhasil', data)
+        console.log('get berhasil', response.data);
       })
       .catch(error => {
         console.error("There was an error fetching the data!", error);
@@ -30,12 +32,6 @@ const MasterBarang = () => {
     // Clear interval when loading is complete
     return () => clearInterval(interval);
   }, []);
-
-  useEffect(() => {
-    if (!loading) {
-      setProgress(100);
-    }
-  }, [loading]);
 
   return (
     <React.Fragment>
@@ -48,7 +44,18 @@ const MasterBarang = () => {
             <Card.Body className="p-3">
               <div className="table-card" style={{ height: '362px' }}>
                 {loading ? (
-                  <ProgressBar animated now={progress} label={`${progress}%`} />
+                  <div className="text-center">
+                    <Spinner
+                      animation="border"
+                      size='sm'
+                      variant='primary'
+                      role="status"
+                      style={{ width: '3rem', height: '3rem' }}
+                    >
+                      <span className="visually-hidden">Loading...</span>
+                    </Spinner>
+                    <div className="mt-3">Loading...</div>
+                  </div>
                 ) : (
                   <PerfectScrollbar>
                     <Table responsive>
@@ -56,6 +63,7 @@ const MasterBarang = () => {
                         <tr>
                           <th>No</th>
                           <th>Id Barang</th>
+                          <th>Kode Barang</th>
                           <th>Nama Barang</th>
                           <th>Jumlah Barang</th>
                           <th>Qty</th>
@@ -67,6 +75,7 @@ const MasterBarang = () => {
                           <tr key={item.id_barang}>
                             <td>{index + 1}</td>
                             <td>{item.id_barang}</td>
+                            <td>{item.kode_barang}</td>
                             <td>{item.nama_barang}</td>
                             <td>{item.jumlah}</td>
                             <td>{item.qty}</td>

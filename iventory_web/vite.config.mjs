@@ -14,6 +14,15 @@ export default defineConfig(({ mode }) => {
       // this sets a default port to 3000
       port: PORT,
       // Adding the proxy configuration
+      server: {
+        proxy: {
+          '/': {
+            target: 'http://localhost:8080',
+            changeOrigin: true,
+            rewrite: (path) => path.replace(/^\/api/, ''),
+          },
+        },
+      },
      
     },
     define: {
