@@ -86,6 +86,11 @@ export const routes = [
       },
       {
         exact: 'true',
+        path: '/master-pelanggan',
+        element: lazy(() => import('./views/master-pelanggan/index'))
+      },
+      {
+        exact: 'true',
         path: '/basic/collapse',
         element: lazy(() => import('./views/ui-elements/BasicCollapse'))
       },

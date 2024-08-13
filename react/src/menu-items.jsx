@@ -45,6 +45,12 @@ const menuItems = {
               type: 'item',
               url: '/master-vendor'
             },
+            {
+            id: 'breadcrumb-pagination',
+            title: 'Master Pelanggan',
+            type: 'item',
+            url: '/master-pelanggan'
+          },
             // {
             //   id: 'collapse',
             //   title: 'Collapse',

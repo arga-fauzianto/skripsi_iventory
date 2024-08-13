@@ -4,18 +4,18 @@ namespace App\Database\Migrations;
 
 use CodeIgniter\Database\Migration;
 
-class CreateMasterVendorTable extends Migration
+class CreateMasterPelangganTable extends Migration
 {
     public function up()
     {
         $this->forge->addField([
-            'id_vendor'      => [
+            'id_pelanggan'      => [
                 'type'           => 'INT',
                 'constraint'     => 10,
                 'unsigned'       => true,
                 'auto_increment' => true,
             ],
-            'nama_vendor'    => [
+            'nama_pelanggan'    => [
                 'type'           => 'VARCHAR',
                 'constraint'     => 33,
             ],
@@ -34,15 +34,13 @@ class CreateMasterVendorTable extends Migration
             'updated_at'     => [
                 'type'           => 'DATETIME',
                 'null'           => true,
-            ],
-            'deleted_at'     => [
-                'type'           => 'DATETIME',
-                'null'           => true,
+    
             ],
         ]);
 
-        $this->forge->addKey('id_vendor', true);
-        $this->forge->createTable('master_vendor');
+        $this->forge->addKey('id_pelanggan', true);
+        $this->forge->createTable('master_pelanggan');
+        
     }
 
     public function down()

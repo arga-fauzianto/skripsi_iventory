@@ -73,10 +73,13 @@ class Filters extends BaseFilters
             // 'csrf',
             // 'invalidchars',
             'cors'
+            
         ],
         'after' => [
             // 'honeypot',
             // 'secureheaders',
+            'cors' => ['after' => ['*']],
+            'toolbar'
         ],
     ];
 
@@ -105,9 +108,6 @@ class Filters extends BaseFilters
      * @var array<string, array<string, list<string>>>
      */
     public array $filters = [
-        'cors' => [
-            'before' => ['masterbarang/*'],
-            'after' => ['masterbarang/*'],
-        ]
+       'cors' => ['before' => ['*']],
     ];
 }

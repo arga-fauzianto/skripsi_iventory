@@ -6,7 +6,7 @@
 </IfModule>
 
 <IfModule mod_headers.c>
-    Header set Access-Control-Allow-Origin "http://localhost:3001/IventoryApps"
+    Header set Access-Control-Allow-Origin "http://localhost:3000/IventoryApps"
     Header set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
     Header set Access-Control-Allow-Headers "Content-Type, Authorization"
 </IfModule>
