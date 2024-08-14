@@ -81,13 +81,18 @@ export const routes = [
       },
       {
         exact: 'true',
-        path: '/master-vendor',
-        element: lazy(() => import('./views/master-vendor/index'))
+        path: '/transaksi-masuk',
+        element: lazy(() => import('./views/transaksi-masuk/index'))
       },
       {
         exact: 'true',
         path: '/master-pelanggan',
         element: lazy(() => import('./views/master-pelanggan/index'))
+      },
+      {
+        exact: 'true',
+        path: '/master-vendor',
+        element: lazy(() => import('./views/master-vendor/index'))
       },
       {
         exact: 'true',

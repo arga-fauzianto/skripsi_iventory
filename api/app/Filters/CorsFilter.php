@@ -10,27 +10,26 @@ class CorsFilter implements FilterInterface
 {
     public function before(RequestInterface $request, $arguments = null)
     {
-        // Set CORS headers for all requests
-        header('Access-Control-Allow-Origin: *');
-        header('Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE');
-        header('Access-Control-Allow-Headers: Content-Type, Authorization');
-        $method = $_SERVER['REQUEST_METHOD'];
+        $response = service('response');
+        $response->setHeader('Access-Control-Allow-Origin', 'http://localhost:3000/IventoryApps');
+        $response->setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+        $response->setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, X-Requested-With');
+        $response->setHeader('Access-Control-Max-Age', '3600');
 
-        // Handle preflight requests (OPTIONS requests)
-        // if ($request->getMethod() === 'options') {
-        //     $response = service('response');
-        //     $response->setStatusCode(200);
-        //     $response->send();
-        //     exit;
-        // }
-        if($method == "OPTIONS"){
-            die();
-        };
+        // Handle OPTIONS method
+        if ($request->getMethod() === 'options') {
+            return $response->setStatusCode(ResponseInterface::HTTP_OK);
+        }
     }
 
     public function after(RequestInterface $request, ResponseInterface $response, $arguments = null)
     {
         // Add CORS headers to all responses
-      
+        $response->setHeader('Access-Control-Allow-Origin', 'http://localhost:3000/IventoryApps');
+        $response->setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+        $response->setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization, X-Requested-With');
+        $response->setHeader('Access-Control-Max-Age', '3600');
+        
+        return $response;
     }
 }

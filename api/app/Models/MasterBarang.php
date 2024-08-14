@@ -7,12 +7,12 @@ use CodeIgniter\Model;
 class MasterBarang extends Model
 {
     protected $table            = 'barang';
-    protected $primaryKey       = 'id';
+    protected $primaryKey       = 'id_barang';
     protected $useAutoIncrement = true;
     protected $returnType       = 'array';
     protected $useSoftDeletes   = false;
     protected $protectFields    = true;
-    protected $allowedFields    = ['kode_barang', 'jumlah', 'qty', 'nama_barang'];
+    protected $allowedFields    = ['jumlah', 'qty', 'nama_barang'];
 
     protected bool $allowEmptyInserts = false;
     protected bool $updateOnlyChanged = true;
@@ -45,7 +45,7 @@ class MasterBarang extends Model
             'max_length' => 'Qty maksimal 5 digit'
         ],
         'nama_barang' => [
-            'reuired' => 'nama barang qajib di isi',
+            'required' => 'nama barang qajib di isi',
             'varchar' => 'nama barang harus berupa character',
             'max_length' => 'maksimal 33'
         ]

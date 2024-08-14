@@ -93,10 +93,11 @@ const menuItems = {
           title: 'Transaksi Masuk',
           type: 'item',
           icon: 'feather icon-lock',
-          url: '/auth/signin-1',
+          url: '/transaksi-masuk',
           target: true,
           breadcrumbs: false
         },
+        
         {
           id: 'sign Up',
           title: 'Transaksi Keluar',
